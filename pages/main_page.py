@@ -1,4 +1,4 @@
-from ..elements.button_element import ButtonElement
+from elements.button_element import ButtonElement
 
 
 class MainPage:
